@@ -34,11 +34,11 @@ Demo 'url-shortner' application Built with NodeJS for DevOps Training.
 
 ### Design
 
-### Draft diagram of **url-shortner**[^1].
+### Draft diagram of **url-shortner** [^1].
 ![Basic Diagram](https://res.cloudinary.com/practicaldev/image/fetch/s--7KrJoFJK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/karanpratapsingh/portfolio/master/public/static/courses/system-design/chapter-V/url-shortener/url-shortener-basic-design.png "Basic Diagram")
 
-### High-Availability diagram draft of **url-shortner**[^1]
+### High-Availability diagram draft of **url-shortner** [^1]
 ![High-Availability Diagram](https://res.cloudinary.com/practicaldev/image/fetch/s--NG7ZUoaM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/karanpratapsingh/portfolio/master/public/static/courses/system-design/chapter-V/url-shortener/url-shortener-advanced-design.png "High-Availability Diagram")
 
 ## Reference
-[^1] [System Design: URL Shortener](https://dev.to/karanpratapsingh/system-design-url-shortener-10i5)
+- [^1] [System Design: URL Shortener](https://dev.to/karanpratapsingh/system-design-url-shortener-10i5)
