@@ -1,0 +1,12 @@
+[submodule "url-shortner-app-frontend"]
+	path = url-shortner-app-frontend
+	url = git@github.com:aburaihan-dev/url-shortner-app-frontend.git
+	branch = main
+[submodule "url-shortner-app-gateway"]
+	path = url-shortner-app-gateway
+	url = git@github.com:aburaihan-dev/url-shortner-app-gateway.git
+	branch = main
+[submodule "url-shortner-app-kgs"]
+	path = url-shortner-app-kgs
+	url = git@github.com:aburaihan-dev/url-shortner-app-kgs.git
+	branch = main
